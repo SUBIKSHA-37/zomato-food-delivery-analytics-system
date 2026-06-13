@@ -1,0 +1,20 @@
+order_id,customer_id,order_date,total_amount,order_year,order_month,order_month_name,order_day_name,order_hour,time_of_day
+1,1,2024-01-05 12:30:00,648.0,2024,1,January,Friday,12,Lunch
+2,2,2024-01-06 13:15:00,478.0,2024,1,January,Saturday,13,Lunch
+3,3,2024-01-07 19:45:00,369.0,2024,1,January,Sunday,19,Dinner
+4,1,2024-01-10 20:00:00,529.0,2024,1,January,Wednesday,20,Dinner
+5,4,2024-01-12 14:00:00,279.0,2024,1,January,Friday,14,Lunch
+6,5,2024-01-14 18:30:00,448.0,2024,1,January,Sunday,18,Dinner
+7,2,2024-01-16 21:00:00,699.0,2024,1,January,Tuesday,21,Dinner
+8,6,2024-01-18 12:00:00,368.0,2024,1,January,Thursday,12,Lunch
+9,7,2024-01-20 15:30:00,549.0,2024,1,January,Saturday,15,Afternoon
+10,8,2024-01-22 17:45:00,329.0,2024,1,January,Monday,17,Afternoon
+11,12,2026-06-08 09:02:54,572.0,2026,6,June,Monday,9,Morning
+12,13,2026-06-08 09:11:18,1148.0,2026,6,June,Monday,9,Morning
+13,15,2026-06-08 10:09:43,2039.0,2026,6,June,Monday,10,Morning
+14,16,2026-06-08 13:15:01,468.0,2026,6,June,Monday,13,Lunch
+15,17,2026-06-08 13:23:00,709.0,2026,6,June,Monday,13,Lunch
+16,18,2026-06-08 13:53:11,824.0,2026,6,June,Monday,13,Lunch
+17,19,2026-06-08 14:14:23,824.0,2026,6,June,Monday,14,Lunch
+18,20,2026-06-13 12:46:29,803.0,2026,6,June,Saturday,12,Lunch
+19,21,2026-06-13 13:05:13,824.0,2026,6,June,Saturday,13,Lunch

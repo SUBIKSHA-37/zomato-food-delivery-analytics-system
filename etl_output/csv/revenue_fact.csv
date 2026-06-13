@@ -1,0 +1,47 @@
+order_item_id,order_id,food_id,quantity,price,food_name,category,restaurant_name,customer_id,order_date,order_month_name,order_year,time_of_day,line_total
+1,1,1,1,299.0,Margherita Pizza,Pizza,Pizza Palace,1,2024-01-05 12:30:00,January,2024,Lunch,299.0
+2,1,12,2,149.0,Chocolate Lava Cake,Dessert,Sweet Spot,1,2024-01-05 12:30:00,January,2024,Lunch,298.0
+3,2,7,1,279.0,Chicken Biryani,Biryani,Biryani House,2,2024-01-06 13:15:00,January,2024,Lunch,279.0
+4,2,15,2,99.0,Mango Lassi,Drinks,Refresh Hub,2,2024-01-06 13:15:00,January,2024,Lunch,198.0
+5,3,3,1,369.0,Paneer Tikka Pizza,Pizza,Fusion Bites,3,2024-01-07 19:45:00,January,2024,Dinner,369.0
+6,4,5,1,249.0,Cheese Burger,Burger,Burger Barn,1,2024-01-10 20:00:00,January,2024,Dinner,249.0
+7,4,10,1,319.0,Spaghetti Carbonara,Pasta,La Pasta,1,2024-01-10 20:00:00,January,2024,Dinner,319.0
+8,5,7,1,279.0,Chicken Biryani,Biryani,Biryani House,4,2024-01-12 14:00:00,January,2024,Lunch,279.0
+9,6,6,1,299.0,Double Patty Burger,Burger,Burger Barn,5,2024-01-14 18:30:00,January,2024,Dinner,299.0
+10,6,16,1,129.0,Cold Coffee,Drinks,Refresh Hub,5,2024-01-14 18:30:00,January,2024,Dinner,129.0
+11,6,17,1,219.0,Caesar Salad,Salad,Green Leaf,5,2024-01-14 18:30:00,January,2024,Dinner,219.0
+12,7,9,2,349.0,Mutton Biryani,Biryani,Biryani House,2,2024-01-16 21:00:00,January,2024,Dinner,698.0
+13,8,4,1,199.0,Classic Burger,Burger,Burger Barn,6,2024-01-18 12:00:00,January,2024,Lunch,199.0
+14,8,13,1,179.0,Tiramisu,Dessert,Sweet Spot,6,2024-01-18 12:00:00,January,2024,Lunch,179.0
+15,9,2,1,349.0,Pepperoni Pizza,Pizza,Pizza Palace,7,2024-01-20 15:30:00,January,2024,Afternoon,349.0
+16,9,11,1,289.0,Penne Arrabbiata,Pasta,La Pasta,7,2024-01-20 15:30:00,January,2024,Afternoon,289.0
+17,10,14,1,99.0,Gulab Jamun,Dessert,Sweet Spot,8,2024-01-22 17:45:00,January,2024,Afternoon,99.0
+18,10,15,1,99.0,Mango Lassi,Drinks,Refresh Hub,8,2024-01-22 17:45:00,January,2024,Afternoon,99.0
+19,10,12,1,149.0,Chocolate Lava Cake,Dessert,Sweet Spot,8,2024-01-22 17:45:00,January,2024,Afternoon,149.0
+20,11,6,1,229.0,Double Patty Burger,Burger,Burger Barn,12,2026-06-08 09:02:54,June,2026,Morning,229.0
+21,11,10,1,179.0,Spaghetti Carbonara,Pasta,La Pasta,12,2026-06-08 09:02:54,June,2026,Morning,179.0
+22,11,11,1,99.0,Penne Arrabbiata,Pasta,La Pasta,12,2026-06-08 09:02:54,June,2026,Morning,99.0
+23,12,6,2,229.0,Double Patty Burger,Burger,Burger Barn,13,2026-06-08 09:11:18,June,2026,Morning,458.0
+24,12,10,1,179.0,Spaghetti Carbonara,Pasta,La Pasta,13,2026-06-08 09:11:18,June,2026,Morning,179.0
+25,12,11,1,99.0,Penne Arrabbiata,Pasta,La Pasta,13,2026-06-08 09:11:18,June,2026,Morning,99.0
+26,12,7,1,319.0,Chicken Biryani,Biryani,Biryani House,13,2026-06-08 09:11:18,June,2026,Morning,319.0
+27,13,7,1,319.0,Chicken Biryani,Biryani,Biryani House,15,2026-06-08 10:09:43,June,2026,Morning,319.0
+28,13,8,1,289.0,Veg Biryani,Biryani,Biryani House,15,2026-06-08 10:09:43,June,2026,Morning,289.0
+29,13,15,2,369.0,Mango Lassi,Drinks,Refresh Hub,15,2026-06-08 10:09:43,June,2026,Morning,738.0
+30,13,5,2,279.0,Cheese Burger,Burger,Burger Barn,15,2026-06-08 10:09:43,June,2026,Morning,558.0
+31,14,5,1,279.0,Cheese Burger,Burger,Burger Barn,16,2026-06-08 13:15:01,June,2026,Lunch,279.0
+32,14,12,1,129.0,Chocolate Lava Cake,Dessert,Sweet Spot,16,2026-06-08 13:15:01,June,2026,Lunch,129.0
+33,15,10,2,179.0,Spaghetti Carbonara,Pasta,La Pasta,17,2026-06-08 13:23:00,June,2026,Lunch,358.0
+34,15,5,1,279.0,Cheese Burger,Burger,Burger Barn,17,2026-06-08 13:23:00,June,2026,Lunch,279.0
+35,16,5,1,279.0,Cheese Burger,Burger,Burger Barn,18,2026-06-08 13:53:11,June,2026,Lunch,279.0
+36,16,15,1,369.0,Mango Lassi,Drinks,Refresh Hub,18,2026-06-08 13:53:11,June,2026,Lunch,369.0
+37,16,11,1,99.0,Penne Arrabbiata,Pasta,La Pasta,18,2026-06-08 13:53:11,June,2026,Lunch,99.0
+38,17,5,1,279.0,Cheese Burger,Burger,Burger Barn,19,2026-06-08 14:14:23,June,2026,Lunch,279.0
+39,17,15,1,369.0,Mango Lassi,Drinks,Refresh Hub,19,2026-06-08 14:14:23,June,2026,Lunch,369.0
+40,17,11,1,99.0,Penne Arrabbiata,Pasta,La Pasta,19,2026-06-08 14:14:23,June,2026,Lunch,99.0
+41,18,5,1,279.0,Cheese Burger,Burger,Burger Barn,20,2026-06-13 12:46:29,June,2026,Lunch,279.0
+42,18,11,1,99.0,Penne Arrabbiata,Pasta,La Pasta,20,2026-06-13 12:46:29,June,2026,Lunch,99.0
+43,18,2,1,349.0,Pepperoni Pizza,Pizza,Pizza Palace,20,2026-06-13 12:46:29,June,2026,Lunch,349.0
+44,19,9,1,149.0,Mutton Biryani,Biryani,Biryani House,21,2026-06-13 13:05:13,June,2026,Lunch,149.0
+45,19,2,1,349.0,Pepperoni Pizza,Pizza,Pizza Palace,21,2026-06-13 13:05:13,June,2026,Lunch,349.0
+46,19,4,1,249.0,Classic Burger,Burger,Burger Barn,21,2026-06-13 13:05:13,June,2026,Lunch,249.0

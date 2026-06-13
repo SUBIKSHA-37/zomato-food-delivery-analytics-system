@@ -1,0 +1,19 @@
+food_id,food_name,category,price,rating,restaurant_name,created_at,price_tier
+1,Margherita Pizza,Pizza,299,4.5,Pizza Palace,08-06-2026 7.43,Premium
+2,Pepperoni Pizza,Pizza,349,4.7,Pizza Palace,08-06-2026 7.43,Premium
+3,Paneer Tikka Pizza,Pizza,369,4.6,Fusion Bites,08-06-2026 7.43,Luxury
+4,Classic Burger,Burger,199,4.3,Burger Barn,08-06-2026 7.43,Mid-range
+5,Cheese Burger,Burger,249,4.6,Burger Barn,08-06-2026 7.43,Mid-range
+6,Double Patty Burger,Burger,299,4.8,Burger Barn,08-06-2026 7.43,Premium
+7,Chicken Biryani,Biryani,279,4.8,Biryani House,08-06-2026 7.43,Premium
+8,Veg Biryani,Biryani,229,4.5,Biryani House,08-06-2026 7.43,Mid-range
+9,Mutton Biryani,Biryani,349,4.9,Biryani House,08-06-2026 7.43,Premium
+10,Spaghetti Carbonara,Pasta,319,4.4,La Pasta,08-06-2026 7.43,Premium
+11,Penne Arrabbiata,Pasta,289,4.2,La Pasta,08-06-2026 7.43,Premium
+12,Chocolate Lava Cake,Dessert,149,4.9,Sweet Spot,08-06-2026 7.43,Budget
+13,Tiramisu,Dessert,179,4.7,Sweet Spot,08-06-2026 7.43,Mid-range
+14,Gulab Jamun,Dessert,99,4.6,Sweet Spot,08-06-2026 7.43,Budget
+15,Mango Lassi,Drinks,99,4.6,Refresh Hub,08-06-2026 7.43,Budget
+16,Cold Coffee,Drinks,129,4.4,Refresh Hub,08-06-2026 7.43,Budget
+17,Caesar Salad,Salad,219,4.3,Green Leaf,08-06-2026 7.43,Mid-range
+18,Greek Salad,Salad,239,4.5,Green Leaf,08-06-2026 7.43,Mid-range
